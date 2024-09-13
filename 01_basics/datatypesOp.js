@@ -91,3 +91,9 @@ true is convert into 1 and flase is convert into 0
 // let stringIsNumber = String(fav_number)
 // console.log(stringIsNumber) 
 // console.log(typeof stringIsNumber) number data type is easily convert into string
+
+
+////Why string to number conversion
+let value = 3
+let negValue = -3
+console.log(negValue)
